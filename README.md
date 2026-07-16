@@ -112,31 +112,6 @@ GitHub Analytics
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
-<img src="https://cdn.simpleicons.org/git/F1502F" width="22"/>
-Contribution Graph
-</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrushikakpanchal&theme=react-dark&bg_color=0d1117&color=00F0FF&line=7B2FF7&point=FF3CAC&hide_border=true"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vrushikakpanchal">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=vrushikakpanchal&label=Profile+Views&color=7B2FF7&style=for-the-badge"/>
-
-<br><br>
-
 <img src="assets/footer-banner.svg" width="100%"/>
 
 </div>
