@@ -1,0 +1,66 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050710"/>
+      <stop offset="55%" stop-color="#0a0e1c"/>
+      <stop offset="100%" stop-color="#0d0818"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="-20%" y1="0%" x2="0%" y2="0%">
+      <animate attributeName="x1" values="-20%;120%;-20%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;140%;0%" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#A742F5"/>
+      <stop offset="100%" stop-color="#FF3CAC"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A742F5" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FF3CAC" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="typeClip">
+      <rect x="62" y="228" width="0" height="30">
+        <animate attributeName="width" values="0;660;660;0;0" keyTimes="0;0.4;0.85;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- neural network connective lines -->
+  <g stroke="url(#lineGrad)" stroke-width="1.2" fill="none">
+    <line x1="90" y1="40" x2="260" y2="90"/>
+    <line x1="260" y1="90" x2="180" y2="180"/>
+    <line x1="180" y1="180" x2="90" y2="40"/>
+    <line x1="950" y1="50" x2="1080" y2="120"/>
+    <line x1="1080" y1="120" x2="1000" y2="220"/>
+    <line x1="1000" y1="220" x2="1130" y2="260"/>
+    <line x1="950" y1="50" x2="1000" y2="220"/>
+    <line x1="330" y1="30" x2="420" y2="20"/>
+    <line x1="700" y1="270" x2="800" y2="290"/>
+  </g>
+
+  <!-- pulsing nodes -->
+  <g>
+    <circle cx="90" cy="40" r="3" fill="#00F0FF"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="90" r="2.5" fill="#A742F5"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="180" r="3" fill="#FF3CAC"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="50" r="3" fill="#00F0FF"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="120" r="2.5" fill="#A742F5"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.3s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="220" r="3" fill="#FF3CAC"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="1130" cy="260" r="2.5" fill="#00F0FF"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="30" r="2" fill="#A742F5"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.7s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="270" r="2.5" fill="#FF3CAC"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- main title -->
+  <text x="60" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="800" fill="url(#textGrad)" letter-spacing="1">VRUSHIKA PANCHAL</text>
+
+  <!-- role -->
+  <text x="62" y="188" font-family="'Courier New', monospace" font-size="19" fill="#8891a8" letter-spacing="1">AI &amp; MACHINE LEARNING ENGINEER</text>
+
+  <!-- typewriter line -->
+  <text x="62" y="250" font-family="'Courier New', monospace" font-size="21" fill="#c9d1d9" clip-path="url(#typeClip)">&gt; building intelligent systems with data_</text>
+  <rect x="60" y="228" width="10" height="26" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

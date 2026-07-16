@@ -1,0 +1,21 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0818"/>
+      <stop offset="50%" stop-color="#0a0e1c"/>
+      <stop offset="100%" stop-color="#050710"/>
+    </linearGradient>
+    <linearGradient id="fWaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#A742F5"/>
+      <stop offset="100%" stop-color="#FF3CAC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="170" fill="url(#fBgGrad)"/>
+  <path d="M0,36 C 260,0 420,70 700,42 C 900,22 1040,58 1200,30 L1200,0 L0,0 Z" fill="url(#fWaveGrad)" opacity="0.18"/>
+  <path d="M0,46 C 260,10 420,80 700,52 C 900,32 1040,68 1200,40" fill="none" stroke="url(#fWaveGrad)" stroke-width="1.5" opacity="0.6"/>
+
+  <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="600" fill="#e6e9f0">Thanks for visiting — training the next model as we speak ✦</text>
+  <text x="600" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#7d87a0">let's connect and build something intelligent</text>
+</svg>
