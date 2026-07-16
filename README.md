@@ -97,58 +97,6 @@ Tech Stack
 <img src="assets/divider.svg" width="100%"/>
 
 <h2 align="center">
-<img src="https://cdn.simpleicons.org/github/7B2FF7" width="22"/>
-Featured Projects
-</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-<a href="https://github.com/vrushikakpanchal/Eco-Sense-AI-Powered-Wildlife-Monitoring-System">
-<img src="assets/project-eco-sense.svg" width="100%"/>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/vrushikakpanchal/Fabric_Defect_Detection">
-<img src="assets/project-fabric-defect.svg" width="100%"/>
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<a href="https://github.com/vrushikakpanchal/Inkwell-Narrative-Intelligence">
-<img src="assets/project-inkwell.svg" width="100%"/>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/vrushikakpanchal/Indian-Tourism---Astra_Nova">
-<img src="assets/project-astra-nova.svg" width="100%"/>
-</a>
-</td>
-
-</tr>
-
-</table>
-
-<div align="center">
-
-<a href="https://github.com/vrushikakpanchal/GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024">
-
-<img src="assets/project-grocergenius.svg" width="55%"/>
-
-</a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-<h2 align="center">
 <img src="https://cdn.simpleicons.org/github/FF3CAC" width="22"/>
 GitHub Analytics
 </h2>
