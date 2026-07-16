@@ -1,203 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:22D3EE,100:F472B6&height=230&section=header&text=Vrushika%20Panchal&fontSize=46&fontColor=0B1120&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descSize=17&descAlignY=58&animation=fadeIn"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FF7,100:FF3CAC&height=220&section=header&text=Vrushika%20Panchal&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/vrushikakpanchal">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+data;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+pixels+and+numbers+into+insight;Always+training+another+model+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-&nbsp;
-<a href="mailto:vrushikakpanchal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1100&colors=22D3EE,A78BFA,F472B6,34D399&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Pixels+and+Text+into+Decisions;PyTorch+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+Scikit-learn"/>
-
-</div>
-
-<img src="assets/circuit-divider.svg" width="100%"/>
-
-## Overview
-
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-<br/>
-
-I design and ship end-to-end machine learning systems — from raw pixels and text to production-ready inference. My work spans **computer vision pipelines**, **deep learning architectures**, and **NLP systems**, wrapped in clean, deployable interfaces.
-
-I care about three things: **signal over noise**, **elegant engineering**, and **models that actually ship**.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Computer%20Vision-6366F1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Image%20Processing-22D3EE?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Deep%20Learning-A78BFA?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NLP-F472B6?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-34D399?style=flat-square&logoColor=white"/>
+<a href="https://www.linkedin.com/in/vrushikakpanchal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-7B2FF7?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-India-FF3CAC?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF3CAC&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I design and build **machine learning & deep learning systems** that turn raw data — images, text, tabular records — into working intelligence. My interests sit at the intersection of **Computer Vision**, **Data Science**, and **applied ML**, where I enjoy the full loop: cleaning messy data, training models, and shipping them as usable apps.
+
+- 🔬 Currently sharpening skills in **Deep Learning** and **Computer Vision**
+- 🛠️ Comfortable across the full ML workflow — from `pandas` to a deployed `Streamlit` app
+- 📊 I like models that are not just accurate, but **explainable and usable**
+- 🌱 Learning in public, one notebook at a time
 
 </td>
-<td width="38%" align="center">
-<img src="assets/ai-robot.svg" width="190"/>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="230"/>
 </td>
 </tr>
 </table>
 
-<img src="assets/circuit-divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,50:7B2FF7,100:00F0FF&height=3&width=100%25" width="100%"/>
 
-## Tech Stack
+<br/>
 
-<div align="center">
-
-<table>
-<tr><td align="center"><b>Languages</b></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=python,r" height="55"/></td></tr>
-</table>
-
-<table>
-<tr><td align="center"><b>AI · ML · Deep Learning</b></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="55"/></td></tr>
-</table>
-
-<table>
-<tr><td align="center"><b>Data & Visualization</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy" height="55"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="42"/>
-</td></tr>
-</table>
-
-<table>
-<tr><td align="center"><b>Deployment & Interfaces</b></td></tr>
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=flask" height="55"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="42"/>
-</td></tr>
-</table>
-
-</div>
-
-<img src="assets/circuit-divider.svg" width="100%"/>
-
-## Flagship Projects
-
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Eco-Sense-AI-Powered-Wildlife-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA"/>
+## ⚡ Tech Arsenal
 
 <div align="center">
-<sub>Real-time species detection & conservation analytics</sub><br/>
-<img src="https://img.shields.io/badge/-Computer%20Vision-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square"/><br/><br/>
-<a href="https://github.com/vrushikakpanchal/Eco-Sense-AI-Powered-Wildlife-Monitoring-System"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0B1120"/></a>
-</div>
 
-</td>
-<td width="50%" valign="top">
+**Core Language & Data**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Fabric_Defect_Detection&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=F472B6&text_color=C9D1D9&icon_color=A78BFA"/>
-
-<div align="center">
-<sub>Automated textile QA using deep learning defect detection</sub><br/>
-<img src="https://img.shields.io/badge/-Deep%20Learning-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/-Image%20Processing-22D3EE?style=flat-square"/><br/><br/>
-<a href="https://github.com/vrushikakpanchal/Fabric_Defect_Detection"><img src="https://img.shields.io/badge/View%20Repository-F472B6?style=for-the-badge&logo=github&logoColor=0B1120"/></a>
-</div>
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="18"></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Inkwell-Narrative-Intelligence&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=34D399&text_color=C9D1D9&icon_color=A78BFA"/>
-
-<div align="center">
-<sub>NLP-driven narrative structure & sentiment intelligence</sub><br/>
-<img src="https://img.shields.io/badge/-NLP-34D399?style=flat-square"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square"/><br/><br/>
-<a href="https://github.com/vrushikakpanchal/Inkwell-Narrative-Intelligence"><img src="https://img.shields.io/badge/View%20Repository-34D399?style=for-the-badge&logo=github&logoColor=0B1120"/></a>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Indian-Tourism---Astra_Nova&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=FBBF24&text_color=C9D1D9&icon_color=A78BFA"/>
-
-<div align="center">
-<sub>Astra Nova — data-driven tourism insights & recommendations</sub><br/>
-<img src="https://img.shields.io/badge/-Data%20Science-FBBF24?style=flat-square"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square"/> <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square"/><br/><br/>
-<a href="https://github.com/vrushikakpanchal/Indian-Tourism---Astra_Nova"><img src="https://img.shields.io/badge/View%20Repository-FBBF24?style=for-the-badge&logo=github&logoColor=0B1120"/></a>
-</div>
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="18"></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA"/>
-
-<div align="center">
-<sub>GrocerGenius — supermarket sales forecasting (Infosys Internship)</sub><br/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-38BDF8?style=flat-square"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square"/><br/><br/>
-<a href="https://github.com/vrushikakpanchal/GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024"><img src="https://img.shields.io/badge/View%20Repository-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120"/></a>
-</div>
-
-</td>
-<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SQL-14354C?style=for-the-badge&logo=postgresql&logoColor=00F0FF&labelColor=0d1117"/>
 
 <br/><br/>
 
-<sub>Every card is a live snapshot, pulled directly from source.</sub><br/><br/>
+**Machine Learning & Deep Learning**
 
-<a href="https://github.com/vrushikakpanchal?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-14354C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PyTorch-14354C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Scikit--learn-14354C?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117"/>
+
+<br/><br/>
+
+**Computer Vision & Data Tools**
+
+<img src="https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-14354C?style=for-the-badge&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-14354C?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-14354C?style=for-the-badge&logo=plotly&logoColor=FF3CAC&labelColor=0d1117"/>
+
+<br/><br/>
+
+**Apps & Visualization**
+
+<img src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Streamlit-14354C?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=0d1117"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF3CAC&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/vrushikakpanchal/Eco-Sense-AI-Powered-Wildlife-Monitoring-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Eco-Sense-AI-Powered-Wildlife-Monitoring-System&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/vrushikakpanchal/Fabric_Defect_Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Fabric_Defect_Detection&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false"/>
 </a>
 
 </td>
 </tr>
+<tr>
+<td width="50%">
 
+<a href="https://github.com/vrushikakpanchal/Inkwell-Narrative-Intelligence">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Inkwell-Narrative-Intelligence&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/vrushikakpanchal/Indian-Tourism---Astra_Nova">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=Indian-Tourism---Astra_Nova&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false"/>
+</a>
+
+</td>
+</tr>
 </table>
-
-<img src="assets/circuit-divider.svg" width="100%"/>
-
-## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vrushikakpanchal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=22D3EE&icon_color=F472B6&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushikakpanchal&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushikakpanchal&theme=tokyonight&hide_border=true&background=161B22&stroke=22D3EE&ring=F472B6&fire=FBBF24&currStreakLabel=22D3EE" height="165"/>
+<a href="https://github.com/vrushikakpanchal/GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vrushikakpanchal&repo=GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false" width="49%"/>
+</a>
 
 </div>
 
-<img src="assets/circuit-divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,50:7B2FF7,100:00F0FF&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🔭 Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="34"/><br/>
+<sub><b>Transformer<br/>Architectures</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/visible.png" width="34"/><br/>
+<sub><b>Advanced<br/>Computer Vision</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/api.png" width="34"/><br/>
+<sub><b>Deploying ML<br/>as Web Apps</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="34"/><br/>
+<sub><b>Storytelling with<br/>Tableau</b></sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF3CAC&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Let's build something intelligent.
-
-<a href="https://www.linkedin.com/in/vrushikakpanchal">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=vrushikakpanchal&show_icons=true&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=FF3CAC&text_color=c9d1d9&border_color=7B2FF7&hide_border=false&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushikakpanchal&theme=radical&background=0d1117&stroke=7B2FF7&ring=00F0FF&fire=FF3CAC&currStreakLabel=00F0FF&border=7B2FF7" width="48%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:22D3EE&height=100&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushikakpanchal&layout=compact&theme=radical&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&border_color=7B2FF7&hide_border=false&langs_count=8" width="55%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrushikakpanchal&theme=react-dark&bg_color=0d1117&color=00F0FF&line=7B2FF7&point=FF3CAC&hide_border=true" width="90%"/>
+
+</div>
+
+<!--
+  Snake contribution animation:
+  Add the GitHub Action from Platane/snk to your profile repo,
+  then uncomment the line below once the generated snake.svg is live.
+
+  <img src="https://raw.githubusercontent.com/vrushikakpanchal/vrushikakpanchal/output/github-contribution-grid-snake.svg" width="100%"/>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,50:7B2FF7,100:00F0FF&height=3&width=100%25" width="100%"/>
+
+<div align="center">
+
+### Let's build something intelligent together
+
+<a href="https://www.linkedin.com/in/vrushikakpanchal"><img src="https://img.shields.io/badge/LinkedIn-Vrushika%20Panchal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vrushikakpanchal&label=Profile%20Views&color=7B2FF7&style=for-the-badge"/>
+
+<br/><br/>
+
+<sub>✨ Thanks for stopping by — training the next model as we speak.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FF7,100:FF3CAC&height=100&section=footer" width="100%"/>
 
 </div>
