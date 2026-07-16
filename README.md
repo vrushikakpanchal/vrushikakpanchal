@@ -38,12 +38,6 @@ I believe the best AI solutions are those that combine **accuracy**, **interpret
 
 </td>
 
-<td width="35%" align="center">
-
-<img src="assets/tech-orbit.svg" width="95%"/>
-
-</td>
-
 </tr>
 </table>
 
