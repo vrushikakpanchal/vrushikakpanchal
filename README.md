@@ -20,10 +20,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
-<img src="https://cdn.simpleicons.org/openai/00F0FF" width="22"/>
-About Me
-</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/> About Me
 
 <table>
 <tr>
