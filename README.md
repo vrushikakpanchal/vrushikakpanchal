@@ -12,7 +12,9 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🧠 About Me
+<h2 align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/> About Me
+</h2>
 
 <table>
 <tr>
@@ -41,7 +43,9 @@ class Vrushika:
 
 <img src="assets/divider.svg" width="100%"/>
 
-## ⚡ Tech Arsenal
+<h2 align="left">
+<img src="https://cdn.simpleicons.org/python/00F0FF" width="22"/> Technology Arsenal
+</h2>
 
 <div align="center">
 
@@ -79,7 +83,9 @@ class Vrushika:
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
+<h2 align="left">
+<img src="https://cdn.simpleicons.org/github/7B2FF7" width="22"/> Project Showcase
+</h2>
 
 <table>
 <tr>
@@ -98,7 +104,9 @@ class Vrushika:
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🔭 Currently Exploring
+<h2 align="left">
+<img src="https://cdn.simpleicons.org/openai/00F0FF" width="22"/> Research Interests
+</h2>
 
 <table>
 <tr>
@@ -111,7 +119,9 @@ class Vrushika:
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 📊 GitHub Analytics
+<h2 align="left">
+<img src="https://cdn.simpleicons.org/github/FF3CAC" width="22"/> GitHub Analytics
+</h2>
 
 <div align="center">
 
@@ -128,7 +138,9 @@ class Vrushika:
 
 <div align="center">
 
-### 📈 Contribution Graph
+<h2 align="left">
+<img src="https://cdn.simpleicons.org/git/F1502F" width="22"/> Contribution Graph
+</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrushikakpanchal&theme=react-dark&bg_color=0d1117&color=00F0FF&line=7B2FF7&point=FF3CAC&hide_border=true" width="90%"/>
 
